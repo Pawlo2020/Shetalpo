@@ -1,0 +1,24 @@
+C:\Users\pawel\source\repos\SHETALPO Time\obj\Debug\SHETALPO Time.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\SHETALPO Time\bin\Debug\SHETALPO Time.exe.config
+C:\Users\pawel\source\repos\SHETALPO Time\bin\Debug\SHETALPO Time.exe
+C:\Users\pawel\source\repos\SHETALPO Time\bin\Debug\SHETALPO Time.pdb
+C:\Users\pawel\source\repos\SHETALPO Time\obj\Debug\SHETALPO Time.exe
+C:\Users\pawel\source\repos\SHETALPO Time\obj\Debug\SHETALPO Time.pdb
+C:\Users\Pawel\Desktop\SHETALPO Time\bin\Debug\SHETALPO Time.exe.config
+C:\Users\Pawel\Desktop\SHETALPO Time\bin\Debug\SHETALPO Time.exe
+C:\Users\Pawel\Desktop\SHETALPO Time\bin\Debug\SHETALPO Time.pdb
+C:\Users\Pawel\Desktop\SHETALPO Time\obj\Debug\SHETALPO Time.csprojAssemblyReference.cache
+C:\Users\Pawel\Desktop\SHETALPO Time\obj\Debug\SHETALPO Time.exe
+C:\Users\Pawel\Desktop\SHETALPO Time\obj\Debug\SHETALPO Time.pdb
+C:\Users\Salva\Desktop\SHETALPO Time (1)\SHETALPO Time\bin\Debug\SHETALPO Time.exe.config
+C:\Users\Salva\Desktop\SHETALPO Time (1)\SHETALPO Time\bin\Debug\SHETALPO Time.exe
+C:\Users\Salva\Desktop\SHETALPO Time (1)\SHETALPO Time\bin\Debug\SHETALPO Time.pdb
+C:\Users\Salva\Desktop\SHETALPO Time (1)\SHETALPO Time\obj\Debug\SHETALPO Time.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\SHETALPO Time (1)\SHETALPO Time\obj\Debug\SHETALPO Time.exe
+C:\Users\Salva\Desktop\SHETALPO Time (1)\SHETALPO Time\obj\Debug\SHETALPO Time.pdb
+C:\Users\Salva\Documents\MEGAsync\Arduino\Shetalpo\shetalpo\fuzzy_logic\SHETALPO Time\obj\Debug\SHETALPO Time.csprojAssemblyReference.cache
+C:\Users\Salva\Documents\MEGAsync\Arduino\Shetalpo\shetalpo\fuzzy_logic\SHETALPO Time\obj\Debug\SHETALPO Time.exe
+C:\Users\Salva\Documents\MEGAsync\Arduino\Shetalpo\shetalpo\fuzzy_logic\SHETALPO Time\obj\Debug\SHETALPO Time.pdb
+C:\Users\Salva\Documents\MEGAsync\Arduino\Shetalpo\shetalpo\fuzzy_logic\SHETALPO Time\bin\Debug\SHETALPO Time.exe.config
+C:\Users\Salva\Documents\MEGAsync\Arduino\Shetalpo\shetalpo\fuzzy_logic\SHETALPO Time\bin\Debug\SHETALPO Time.exe
+C:\Users\Salva\Documents\MEGAsync\Arduino\Shetalpo\shetalpo\fuzzy_logic\SHETALPO Time\bin\Debug\SHETALPO Time.pdb
